@@ -1,0 +1,43 @@
+header {
+    background-color: #244751;
+    color: #E8FDFF;
+    padding: 5px;
+}
+
+h1 {
+    color: #f6f6f6;
+}
+h2 {
+    color: #244751;
+    
+}
+h3 {
+    color: #244751;
+    text-align: right;
+    padding-right: 460px;
+    
+}
+h4 {
+    color: #244751;
+}
+
+li {
+    color: #12561b;
+}
+
+body {
+    background-color: whitesmoke;
+}
+
+main {
+    background-color: white;
+    padding: 27px;
+}
+
+.post {
+    margin-bottom: 48px;
+}
+
+.post. user-info img {
+    border-radius: 37%;
+}
